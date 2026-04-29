@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import Heading from './components/Heading';
-import AddStudent from  './components/AddStudent';
-import StudentsSummary from  './components/StudentsSummary';
-import AllDetails from  './components/AllDetails';
+import Heading from './Heading';
+import AddStudent from  './AddStudent';
+import StudentsSummary from  './StudentsSummary';
+import AllDetails from  './AllDetails';
 
 function App(){
   const initialStudents=[
